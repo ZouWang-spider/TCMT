@@ -4,7 +4,7 @@ Source codes of the our paper titled "TCMT: Target-oriented Cross Modal Transfor
 
 <img src="https://github.com/ZouWang-spider/TCMT/blob/main/TCMT/DataProcess/TCMT.png" alt="TCMT Model" width="500"/>
 
-# TCMT
+# TCMT Framework
 
 For visual objects in dataset, we perform YOLOv5 to detect objects, https://github.com/ultralytics/yolov5
 
