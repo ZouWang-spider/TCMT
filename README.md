@@ -1,4 +1,6 @@
-Source codes of the our paper titled "Target-oriented Cross Modal Transformer for Multimodal Aspect-based Sentiment Analysis"
+Source codes of the our paper titled "Target-oriented Cross Modal Transformer for Multimodal Aspect-based Sentiment Analysis", which has been accepted by the journal Expert Systems with Applications (2024).  url: https://www.sciencedirect.com/science/article/abs/pii/S095741742402685X
+
+
 
 For visual objects in dataset, we perform YOLOv5 to detect objects, https://github.com/ultralytics/yolov5
 
