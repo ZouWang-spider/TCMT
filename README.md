@@ -1,6 +1,8 @@
-Source codes of the our paper titled "Target-oriented Cross Modal Transformer for Multimodal Aspect-based Sentiment Analysis", which has been accepted by the journal Expert Systems with Applications (2024).  url: https://www.sciencedirect.com/science/article/abs/pii/S095741742402685X
+Source codes of the our paper titled "TCMT: Target-oriented Cross Modal Transformer for Multimodal Aspect-Based Sentiment Analysis", which has been accepted by the journal Expert Systems with Applications (2024).  url: https://www.sciencedirect.com/science/article/abs/pii/S095741742402685X
 
 <img src="https://github.com/ZouWang-spider/TCMT/blob/main/TCMT/DataProcess/TCMT.png" alt="TCMT Model" width="500"/>
+<font size="5">TCMT</font>
+___
 
 For visual objects in dataset, we perform YOLOv5 to detect objects, https://github.com/ultralytics/yolov5
 
